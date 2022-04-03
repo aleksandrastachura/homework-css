@@ -1,0 +1,27 @@
+body {
+    font-family: 'Dosis', sans-serif;
+}
+* {
+    font-size: 16px;
+}
+.box2 {
+    color: red
+}
+.styl_h1 {
+    font-size: 36px;
+}
+.styl_h2 {
+    font-size: 30px;
+}
+.styl_h3 {
+    font-size: 24px;
+}
+.styl_h4 {
+    font-size: 18px;
+}
+.styl_h5 {
+    font-size: 14px;
+}
+.styl_h6 {
+    font-size: 12px;
+}
